@@ -132,7 +132,7 @@ var mClient: MqttAndroidClient? = null
 private fun createClient() {
 
     //1、创建接口回调
-    //以下回调都在非主线程中
+    //以下回调都在主线程中(如果使用MqttClient,使用此回调里面的都是非主线程)
     val mqttCallback: MqttCallbackExtended = object : MqttCallbackExtended {
         override fun connectComplete(reconnect: Boolean, serverURI: String) {
             //连接成功
