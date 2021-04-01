@@ -48,8 +48,7 @@
 ## 2.1 下载MQTT客户端软件
 
 [下载地址](https://repo.eclipse.org/content/repositories/paho-releases/org/eclipse/paho/org.eclipse.paho.ui.app/1.1.1/)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210310103435763.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L015Zml0dGluZ2xpZmU=,size_16,color_FFFFFF,t_70#pic_center)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210401084958529.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L015Zml0dGluZ2xpZmU=,size_16,color_FFFFFF,t_70)
 
 
 下载勾选中的那个文件即可，下载完后解压得到paho.exe，即我们需要的客户端软件。
